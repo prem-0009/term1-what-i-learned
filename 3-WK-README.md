@@ -30,9 +30,13 @@
 * Function is called with function name `functionName()`
 * Function can be defined as defining a variable `let hello=functionName()`
 * Function takes parameter `let hello=functionName(myName)`
-* >`function add(num1,num2){ ;` &nbsp;
-  >  `return num1+num2;`
-  >`}`
-  >`add(5+6);`
+* >`function add(num1,num2){ ` \
+  &nbsp;&nbsp;  `return num1+num2;`\
+  `}`\
+  `add(5+6);` \
+  line 1 start declaring function name add that can take two parameters and  can 
+  return the additive value of those two parameters.\
+  The last line add(5+6) call for the function name add(num1,num2) to execute and run the code within.
+  
   
   
