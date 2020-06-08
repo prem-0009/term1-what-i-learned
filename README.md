@@ -1,1 +1,0 @@
-# term1-what-i-learned
