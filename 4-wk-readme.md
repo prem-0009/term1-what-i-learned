@@ -15,7 +15,7 @@
 >* Nodemon is a tool that will monitor the `*.js` file and present the outcome in real time.
 >* Nodemon gives a new outcome whenever a change is made and the file is saved.
 >* To install noedemon `npm install -g nodemon` globally. Remove `-g` to install in
-present directory only
+present directory **only**
 >* `nodemon filename.js`
 >* `jest --watch-all`???
 
